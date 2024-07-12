@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj-creator&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj-creator" /> </p>
 
-- Currently working on **Cognifyz technology internship projects**
+-🧑‍💻 Currently working on **Cognifyz technology internship projects**
 
 - 🌱 I’m currently studying **Computer science and engineering (Final year)**
 
