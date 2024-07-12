@@ -1,8 +1,8 @@
   ![logo](https://github.com/amanraj-creator/amanraj-creator/blob/main/canva.jpg.png)
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanraj-creator&show_icons=true&locale=en&layout=compact" alt="amanraj-creator" /></p><h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">Highly organized and self-motivated seeking an opportunity to gain hands-on experience and contribute to a dynamic organization.</h3>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanraj-creator&show_icons=true&locale=en&layout=compact" alt="amanraj-creator" /></p><h1 align="center">Hi👋, I'm Aman Raj</h1>
+<h3 align="center">Highly organized and self-motivated seeking an opportunity to gain hands-on experience and contribute to a dynamic organization!</h3>
 
-<img align="right" alt="coding" width="420" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj-creator&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj-creator" /> </p>
 
