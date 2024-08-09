@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj-creator&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj-creator" /> </p>
 
--🧑‍💻 Currently working on **DSA and Learning Ethical Hacking**
+-🧑‍💻 Currently learning **DSA and Ethical Hacking**
 
 - 🌱 I’m currently studying **Computer science and engineering (Final year)**
 
