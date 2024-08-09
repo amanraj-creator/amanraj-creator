@@ -2,19 +2,19 @@
 <h1 align="center">Hi👋, I'm Aman Raj</h1>
 <h3 align="center">Highly organized and self-motivated seeking an opportunity to gain hands-on experience and contribute to a dynamic organization!</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
+<img align="right" alt="coding" width="385" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj-creator&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj-creator" /> </p>
 
--🧑‍💻 Currently working on **Cognifyz technology internship projects**
+-🧑‍💻 Currently working on **DSA and Ethical Hacking**
 
 - 🌱 I’m currently studying **Computer science and engineering (Final year)**
 
-- 💬 Ask me about **Cybersecurity, Networking, Ethical hacking, C++ programming,DSA.**
+- 💬 Ask me about **DSA,C++ programming,Cybersecurity,Networking**
 
 - 📫 How to reach me **iamanraj01@gmail.com**
 
-- ⚡ Fun fact **I still believed in Santa Claus until I was in High School**
+- ⚡ Fun fact **I am funny and friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
