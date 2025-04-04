@@ -67,7 +67,18 @@
  </P>
 
 
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amanraj-creator" alt="GitHub Trophy" />
+  </a>
+</p>
+
+
 ---
+
+ 
+ 
+
  <p align="center">
   <strong>🌐 Let’s Connect</strong><br><br>
   <a href=" https://www.linkedin.com/in/aman-raj-a1b549269/" target="_blank">
@@ -82,10 +93,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50px" alt="GeeksforGeeks" />
   </a>
 </p>
-
- 
-
-
 
 
    
